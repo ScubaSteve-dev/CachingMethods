@@ -1,4 +1,5 @@
 # CachingMethods
+See "CacheMethodsNoFluff.docx" for Program run Examples.
 Read Me:
 How to Run Program:
 1.	Install Eclipse and Java SDK 12
